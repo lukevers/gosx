@@ -3,8 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleName</key>
+	<string>Go OSX App</string>
+	<key>CFBundleIconFile</key>
+	<string>goxs.icns</string>
+	<key>CFBundleExecutable</key>
 	<string>gosx</string>
-	<key>CFBundleIcon</key>
-	<string></string>
 </dict>
 </plist>
