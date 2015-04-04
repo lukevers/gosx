@@ -23,6 +23,8 @@ _testmain.go
 *.test
 *.prof
 
+# App
+*.app
 gosx
 
 # OS X
