@@ -8,9 +8,6 @@ all:
 	cp -r app $(APP)
 	cp $(PROGRAM) $(APP)/Contents/MacOS/
 
-build: $(PROGRAM)
-	go build
-
 clean:
 	@- $(RM) $(PROGRAM)
 	@- $(RM) -r $(APP)
